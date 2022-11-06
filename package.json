@@ -1,0 +1,14 @@
+{
+    "name": "multiinstance",
+    "author": "Burkino",
+    "main": "server.js",
+    "repository": "github:Burkino/syn-multiinstance-exec",
+    "dependencies": {
+        "express": "^4.17.1",
+        "http": "^0.0.1-security",
+        "ws": "^8.2.3"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
